@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhmdalijavaheri
 - 👀 I’m interested in AI and ML and Code
 - 🌱 I’m currently learning FrontEnd before BackEnd
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on JavaScript
 - 📫 How to reach me ...
 
 <!---
