@@ -1,5 +1,5 @@
 - 👋 Hi there 👋 I'm Mohamad Ali 🙋‍♂️
-- 👨‍🎓 Master Software student.
+- 👨‍🎓 Master AI student.
 - 👨‍💻 #SelfTaught Developer.
 - 🌱 Mostly working on Python and Database !
 <!---
